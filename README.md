@@ -11,9 +11,10 @@
 ### 💻 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP**
-- 😍 Serei uma futura Desenvolvedora
-- 🚀 Apaixonada por tecnologia, programação e desenvolvimento web
-- 🔍 Procuro sempre aprender e me aperfeiçoar.
+- 😍 Serei uma futura Programadora
+- 🚀 Sou apaixonada pela area de programação e tecnologia
+- 🔍 Procuro sempre aprender e me aperfeiçoar
+- 🎮 Curto bastante jogar videogame
 
 ### 🧰 Linguagens e Tecnologias
 <div align="center">
